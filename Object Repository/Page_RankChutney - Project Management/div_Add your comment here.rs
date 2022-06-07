@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Add your comment here</name>
+   <tag></tag>
+   <elementGuidId>df7a0305-29a7-4fa7-ad4a-65acb4e2ffab</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.comment-holder</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='wrapper']/div[3]/div/div/div[2]/div/div[2]/div[4]/div/div[2]/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>0fc2d870-e687-423e-b817-f1bed5b3bf2f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>comment-holder</value>
+      <webElementGuid>f222c6d8-2883-471f-ad17-5a4a811212f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Add your comment here ....</value>
+      <webElementGuid>1be96e1d-3918-4ef3-9ac9-04df09da5030</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;wrapper&quot;)/div[@class=&quot;content-page&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-12&quot;]/div[@class=&quot;card-box discussions&quot;]/div[@class=&quot;m-t-30&quot;]/div[@class=&quot;row clearfix&quot;]/div[@class=&quot;col-xs-10 col-lg-11&quot;]/div[@class=&quot;comment-wrapper&quot;]/div[@class=&quot;comment-holder&quot;]</value>
+      <webElementGuid>6c832ea3-fde7-424c-aee5-e864cb067884</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='wrapper']/div[3]/div/div/div[2]/div/div[2]/div[4]/div/div[2]/div/div</value>
+      <webElementGuid>b8e2f109-6213-4da3-91fb-65256f2a2d8e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='This discussion is used for clarifications before the tasks are approved.'])[2]/following::div[7]</value>
+      <webElementGuid>b53b3ddc-2c92-43af-809e-1bfabbd83078</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[2]/following::div[8]</value>
+      <webElementGuid>611455c6-a983-43b0-9c89-58f64f02f6ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bold'])[2]/preceding::div[1]</value>
+      <webElementGuid>2065f504-9a86-4f98-864d-2d73b1bc1eac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Italic'])[2]/preceding::div[1]</value>
+      <webElementGuid>fda38965-24b0-4f39-aaa3-93d13b1d3210</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Add your comment here ....']/parent::*</value>
+      <webElementGuid>b5d64e75-425a-49a0-abb6-edcb274f5a03</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[4]/div/div[2]/div/div</value>
+      <webElementGuid>4d6a8fe5-0480-4544-b32f-59c230f4b9b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Add your comment here ....' or . = 'Add your comment here ....')]</value>
+      <webElementGuid>42a7270a-d215-4671-9b7c-b6b238e93b2f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

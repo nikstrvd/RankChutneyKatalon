@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_See all Notification_img-circle user-im_e52901</name>
+   <tag></tag>
+   <elementGuidId>3b915b84-ed43-4ea6-bcfb-4c032f58b11f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>img.img-circle.user-img.user-avatar</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='wrapper']/div/div[2]/div/ul[2]/li[2]/a/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>cd4c0df4-6213-4059-a8d5-aedb5b409fb3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value> https://rankchutney.2stallions.site/wp-content/plugins/wordpress-portal/web/assets/images/users/avatar-default.png</value>
+      <webElementGuid>c982695c-ff06-43ff-988f-0509afd87a52</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>user-img</value>
+      <webElementGuid>0931e6d7-487b-4e6d-9f92-6c22e8d7ec84</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>img-circle user-img user-avatar</value>
+      <webElementGuid>cf9610c4-57fa-426d-97a1-c323239dcfe2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;wrapper&quot;)/div[@class=&quot;topbar&quot;]/div[@class=&quot;navbar navbar-default&quot;]/div[@class=&quot;container&quot;]/ul[@class=&quot;nav navbar-nav navbar-right&quot;]/li[@class=&quot;dropdown user-box&quot;]/a[@class=&quot;dropdown-toggle waves-effect user-link&quot;]/img[@class=&quot;img-circle user-img user-avatar&quot;]</value>
+      <webElementGuid>16e429e3-ed8a-4d9f-808d-f14bee416525</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='wrapper']/div/div[2]/div/ul[2]/li[2]/a/img</value>
+      <webElementGuid>5f9df515-8649-4050-aab9-d3b336be78d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='user-img']</value>
+      <webElementGuid>1de42e90-2f49-42b1-8d90-d173209b84cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ul[2]/li[2]/a/img</value>
+      <webElementGuid>3f62855e-de98-4d2b-8906-5819b1b79e06</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = ' https://rankchutney.2stallions.site/wp-content/plugins/wordpress-portal/web/assets/images/users/avatar-default.png' and @alt = 'user-img']</value>
+      <webElementGuid>b0be0836-7e6b-44f8-8996-9443e4e79437</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
